@@ -1,4 +1,11 @@
 # PassengerCounter
-Passenger Counter 
-This is an app that count Passengers that take the public transport.
-I use only HTML,CSS and JS
+## Javascript Passenger Counter 
+
+This is a simple Javascript app that count how many People take the public transport.
+
+
+I use this programming languages:
+------------------------------------
+- HTML
+- CSS
+- JS
